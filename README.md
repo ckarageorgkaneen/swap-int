@@ -1,4 +1,4 @@
-# swap_int
+# swap-int
 
 A small C macro lib for swapping integers:
 1. Using a temp var:
